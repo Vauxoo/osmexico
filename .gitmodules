@@ -1,0 +1,4 @@
+[submodule "osmexico"]
+	path = osmexico
+	url = git@git.vauxoo.com:vauxoo/osmexico.git
+	branch = 16.0
